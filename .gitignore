@@ -1,0 +1,10 @@
+/Debug/
+Debug/
+.mxproject
+SDIO.elf.launch
+*.elf
+*.Id
+*.ld
+*.1d
+.cprojekt
+.project
